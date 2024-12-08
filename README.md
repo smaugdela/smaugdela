@@ -1,6 +1,12 @@
 # Hi there 👋, i'm Simon
 
+
+### 🌱 Deep Learning Junior, check [my work](https://youtu.be/fp4a3hPwP4s?si=cxQsAyGsYqJOqlOR&t=3683) at Asobo Studio, where we performed semantic segmentation on the whole planet to create a digital twin of it.
+
+
 ## ⚡ What I know so far
+
+
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -32,9 +38,6 @@
 ### DB
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-
-### 🌱 Deep Learning Junior, check [my work](https://youtu.be/fp4a3hPwP4s?si=cxQsAyGsYqJOqlOR&t=3683) at Asobo Studio, where we performed semantic segmentation on the whole planet to create a digital twin of it.
 
 
 ## My LinkedIn
