@@ -34,7 +34,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
-## 🌱 Deep Learning Junior, check ![my work](https://youtu.be/fp4a3hPwP4s?si=cxQsAyGsYqJOqlOR&t=3683) at Asobo Studio, where we performed semantic segmentation on the whole planet to create a digital twin of it.
+### 🌱 Deep Learning Junior, check [my work](https://youtu.be/fp4a3hPwP4s?si=cxQsAyGsYqJOqlOR&t=3683) at Asobo Studio, where we performed semantic segmentation on the whole planet to create a digital twin of it.
 
 
 ## My LinkedIn
