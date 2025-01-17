@@ -4,7 +4,7 @@
 
 ### 🔭 Currently looking for a job, and working on a side project of low performance-friendly generative AI for images...
 
-### 42 School student [![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat-square)](https://42.fr/en/homepage/)
+###  [![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat-square)](https://42.fr/en/homepage/) 42 School student
 ## ⚡ My skills
 
 ### Languages and Tools
