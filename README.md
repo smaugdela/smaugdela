@@ -4,7 +4,7 @@
 
 ### 🔭 Currently looking for a job, and working on a side project of low performance-friendly generative AI for images...
 
-
+### 42 School student [![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat-square)](https://42.fr/en/homepage/)
 ## ⚡ My skills
 
 ### Languages and Tools
@@ -35,6 +35,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+### GIS
+![GeoPandas Badge](https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=fff&style=for-the-badge)
+![Qgis Badge](https://img.shields.io/badge/Qgis-589632?logo=qgis&logoColor=fff&style=for-the-badge)
 
 ### My LinkedIn
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/simon-magdelaine-723b49290)
