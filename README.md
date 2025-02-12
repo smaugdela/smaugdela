@@ -41,7 +41,7 @@
 ![Qgis Badge](https://img.shields.io/badge/Qgis-589632?logo=qgis&logoColor=fff&style=for-the-badge)
 
 ### My LinkedIn
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/simon-magdelaine-723b49290)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-magdelaine-723b49290/)
 
 
 <!--
