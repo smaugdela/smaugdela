@@ -1,8 +1,8 @@
 # Hi there 👋, i'm Simon
 
-### 🌱 Machine Learning Junior, with a strong emphasis on computer vision, check [my work](https://youtu.be/fp4a3hPwP4s?si=cxQsAyGsYqJOqlOR&t=3683) at Asobo Studio, where we performed semantic segmentation on the whole planet to create a digital twin of it.
+### 🌱 Machine Learning / Data science Junior, with a strong emphasis on computer vision, check [my work](https://youtu.be/fp4a3hPwP4s?si=cxQsAyGsYqJOqlOR&t=3683) at Asobo Studio, where we performed semantic segmentation on the whole planet to create a digital twin of it.
 
-### 🔭 Currently looking for a job, and working on a side project of low performance-friendly generative AI for images...
+### 🔭 Currently looking for a job, and playing around with AI agents...
 
 ###  [![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat-square)](https://42.fr/en/homepage/) 42 School student
 ## ⚡ My skills
